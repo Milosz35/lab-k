@@ -1,0 +1,33 @@
+:host {
+  display: block;
+  max-width: 450px;
+  margin: 30px auto;
+  padding: 25px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px #00000015;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #222;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+dd {
+  margin: 12px 0;
+  color: #444;
+  font-size: 16px;
+}
+
+a {
+  color: #222;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
